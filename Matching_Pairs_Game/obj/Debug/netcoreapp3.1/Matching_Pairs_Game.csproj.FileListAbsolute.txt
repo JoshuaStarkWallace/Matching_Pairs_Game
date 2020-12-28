@@ -1,0 +1,15 @@
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\bin\Debug\netcoreapp3.1\Matching_Pairs_Game.exe
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\bin\Debug\netcoreapp3.1\Matching_Pairs_Game.deps.json
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\bin\Debug\netcoreapp3.1\Matching_Pairs_Game.runtimeconfig.json
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\bin\Debug\netcoreapp3.1\Matching_Pairs_Game.runtimeconfig.dev.json
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\bin\Debug\netcoreapp3.1\Matching_Pairs_Game.dll
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\bin\Debug\netcoreapp3.1\Matching_Pairs_Game.pdb
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.csprojAssemblyReference.cache
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.Form1.resources
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.csproj.GenerateResource.cache
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.AssemblyInfoInputs.cache
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.AssemblyInfo.cs
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.csproj.CoreCompileInputs.cache
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.dll
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.pdb
+C:\All_Repos\Visual_Studio_Repos\Matching_Pairs_Game\Matching_Pairs_Game\obj\Debug\netcoreapp3.1\Matching_Pairs_Game.genruntimeconfig.cache
